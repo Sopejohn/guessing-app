@@ -1,8 +1,8 @@
-# Web Development Project 3 - *Name of App Here*
+# Web Development Project 3 - *Guess The Country*
 
 Submitted by: **Mosopefoluwa John**
 
-This web app: **Guess That Country is a flashcard game that features 60 countries from around the world that may not be too familiar with most people. This time, users can take a crack at guessing what the country is. Users can now navigate between cards freely and shuffle the deck to randomize their order.**
+This web app: **Guess The Country is a flashcard game that features 60 countries from around the world that may not be too familiar with most people. This time, users can take a crack at guessing what the country is. Users can now navigate between cards freely and shuffle the deck to randomize their order.**
 
 Time spent: **5** hours spent in total
 
